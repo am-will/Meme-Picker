@@ -131,10 +131,11 @@ input[type="radio"]{
     align-items: center;
     justify-content: center;
     border: 1px solid #67595e;
-    border-radius: 5px;
+    border-radius: 10px;
     width: 420px;
     height: 490px;
     background-color: #fff0ee;
+    box-shadow: 5px 5px 10px black;
 }
 
 .cat-img{
@@ -160,3 +161,4 @@ input[type="radio"]{
     background-color: #bd301d;
     border: 2px solid #bd301d;
 }
+
